@@ -9,7 +9,7 @@ body {
   
   .bloco {
     width: 100%;
-    padding-top: 100%; /* n mexer -> mantém a proporção quadrada */
+    padding-top: 100%; 
     background-color: grey;
     border-radius: 10px;
     margin-bottom: 10px;
