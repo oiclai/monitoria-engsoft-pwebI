@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .galeria {
+    padding: 20px;
+  }
+  
+  .bloco {
+    width: 100%;
+    padding-top: 100%; /* n mexer -> mantém a proporção quadrada */
+    background-color: grey;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .bloco1 { background-color: #FF5733; }
+  .bloco2 { background-color: #33FF57; }
+  .bloco3 { background-color: #3357FF; }
+  .bloco4 { background-color: #FF33A1; }
+  .bloco5 { background-color: #FF8F33; }
+  .bloco6 { background-color: #8F33FF; }
+  
